@@ -1,0 +1,2048 @@
+[\u0000] 0
+[\u0001] 1
+[\u0002] 2
+[\u0003] 3
+[\u0004] 4
+[\u0005] 5
+[\u0006] 6
+[\u0007] 7
+[\u0008] 8
+[\u0009] 9
+[\u000a] 10
+[\u000b] 11
+[\u000c] 12
+[\u000d] 13
+[\u000e] 14
+[\u000f] 15
+[\u0010] 16
+[\u0011] 17
+[\u0012] 18
+[\u0013] 19
+[\u0014] 20
+[\u0015] 21
+[\u0016] 22
+[\u0017] 23
+[\u0018] 24
+[\u0019] 25
+[\u001a] 26
+[\u001b] 27
+[\u001c] 28
+[\u001d] 29
+[\u001e] 30
+[\u001f] 31
+[ ] 32
+[!] 33
+["] 34
+[#] 35
+[$] 36
+[%] 37
+[&] 38
+['] 39
+[(] 40
+[)] 41
+[*] 42
+[+] 43
+[,] 44
+[-] 45
+[.] 46
+[/] 47
+[0] 48
+[1] 49
+[2] 50
+[3] 51
+[4] 52
+[5] 53
+[6] 54
+[7] 55
+[8] 56
+[9] 57
+[:] 58
+[;] 59
+[<] 60
+[=] 61
+[>] 62
+[?] 63
+[@] 64
+[A] 65
+[B] 66
+[C] 67
+[D] 68
+[E] 69
+[F] 70
+[G] 71
+[H] 72
+[I] 73
+[J] 74
+[K] 75
+[L] 76
+[M] 77
+[N] 78
+[O] 79
+[P] 80
+[Q] 81
+[R] 82
+[S] 83
+[T] 84
+[U] 85
+[V] 86
+[W] 87
+[X] 88
+[Y] 89
+[Z] 90
+[[] 91
+[\] 92
+[]] 93
+[^] 94
+[_] 95
+[`] 96
+[a] 97
+[b] 98
+[c] 99
+[d] 100
+[e] 101
+[f] 102
+[g] 103
+[h] 104
+[i] 105
+[j] 106
+[k] 107
+[l] 108
+[m] 109
+[n] 110
+[o] 111
+[p] 112
+[q] 113
+[r] 114
+[s] 115
+[t] 116
+[u] 117
+[v] 118
+[w] 119
+[x] 120
+[y] 121
+[z] 122
+[{] 123
+[|] 124
+[}] 125
+[~] 126
+[\u007f] 127
+[�] 128
+[�] 129
+[�] 130
+[�] 131
+[�] 132
+[�] 133
+[�] 134
+[�] 135
+[�] 136
+[�] 137
+[�] 138
+[�] 139
+[�] 140
+[�] 141
+[�] 142
+[�] 143
+[�] 144
+[�] 145
+[�] 146
+[�] 147
+[�] 148
+[�] 149
+[�] 150
+[�] 151
+[�] 152
+[�] 153
+[�] 154
+[�] 155
+[�] 156
+[�] 157
+[�] 158
+[�] 159
+[�] 160
+[�] 161
+[�] 162
+[�] 163
+[�] 164
+[�] 165
+[�] 166
+[�] 167
+[�] 168
+[�] 169
+[�] 170
+[�] 171
+[�] 172
+[�] 173
+[�] 174
+[�] 175
+[�] 176
+[�] 177
+[�] 178
+[�] 179
+[�] 180
+[�] 181
+[�] 182
+[�] 183
+[�] 184
+[�] 185
+[�] 186
+[�] 187
+[�] 188
+[�] 189
+[�] 190
+[�] 191
+[�] 192
+[�] 193
+[�] 194
+[�] 195
+[�] 196
+[�] 197
+[�] 198
+[�] 199
+[�] 200
+[�] 201
+[�] 202
+[�] 203
+[�] 204
+[�] 205
+[�] 206
+[�] 207
+[�] 208
+[�] 209
+[�] 210
+[�] 211
+[�] 212
+[�] 213
+[�] 214
+[�] 215
+[�] 216
+[�] 217
+[�] 218
+[�] 219
+[�] 220
+[�] 221
+[�] 222
+[�] 223
+[�] 224
+[�] 225
+[�] 226
+[�] 227
+[�] 228
+[�] 229
+[�] 230
+[�] 231
+[�] 232
+[�] 233
+[�] 234
+[�] 235
+[�] 236
+[�] 237
+[�] 238
+[�] 239
+[�] 240
+[�] 241
+[�] 242
+[�] 243
+[�] 244
+[�] 245
+[�] 246
+[�] 247
+[�] 248
+[�] 249
+[�] 250
+[�] 251
+[�] 252
+[�] 253
+[�] 254
+[�] 255
+[e][ ] -> [e ] 256
+[s][ ] -> [s ] 257
+[t][ ] -> [t ] 258
+[n][ ] -> [n ] 259
+[a][ ] -> [a ] 260
+[�][�] -> [�] 261
+[o][u] -> [ou] 262
+[�][�] -> [’] 263
+[a][i] -> [ai] 264
+[r][ ] -> [r ] 265
+[e][n] -> [en] 266
+[i][ ] -> [i ] 267
+[�][�] -> [é] 268
+[u][ ] -> [u ] 269
+[o][n ] -> [on ] 270
+[e][s ] -> [es ] 271
+[p][a] -> [pa] 272
+[a][n] -> [an] 273
+[e][s] -> [es] 274
+[l][e ] -> [le ] 275
+[q][u] -> [qu] 276
+[d][e ] -> [de ] 277
+[r][e ] -> [re ] 278
+[e][r ] -> [er ] 279
+[ai][s ] -> [ais ] 280
+[e][n ] -> [en ] 281
+[j][e ] -> [je ] 282
+[o][n] -> [on] 283
+[e][u] -> [eu] 284
+[t][e ] -> [te ] 285
+[es][t ] -> [est ] 286
+[e][r] -> [er] 287
+[?][ ] -> [? ] 288
+[o][i] -> [oi] 289
+[t][i] -> [ti] 290
+[pa][s ] -> [pas ] 291
+[l][a ] -> [la ] 292
+[m][e ] -> [me ] 293
+[’][a] -> [’a] 294
+[c][h] -> [ch] 295
+[c][o] -> [co] 296
+[t][r] -> [tr] 297
+[l][ ] -> [l ] 298
+[s][e ] -> [se ] 299
+[s][u] -> [su] 300
+[’][est ] -> [’est ] 301
+[e][m] -> [em] 302
+[p][r] -> [pr] 303
+[e][t ] -> [et ] 304
+[n][e ] -> [ne ] 305
+[i][s ] -> [is ] 306
+[o][r] -> [or] 307
+[ou][r ] -> [our ] 308
+[ai][ ] -> [ai ] 309
+[a][u] -> [au] 310
+[a][r] -> [ar] 311
+[�][ ] -> [� ] 312
+[�][� ] -> [à ] 313
+[é][ ] -> [é ] 314
+[qu][e ] -> [que ] 315
+[en][t ] -> [ent ] 316
+[J][e ] -> [Je ] 317
+[i][n] -> [in] 318
+[ou][ ] -> [ou ] 319
+[p][e] -> [pe] 320
+[a][l] -> [al] 321
+[d][ ] -> [d ] 322
+[o][i ] -> [oi ] 323
+[r][e] -> [re] 324
+[u][n ] -> [un ] 325
+[x][ ] -> [x ] 326
+[�][�] -> [�] 327
+[ai][t ] -> [ait ] 328
+[c][’est ] -> [c’est ] 329
+[c][e ] -> [ce ] 330
+[r][i] -> [ri] 331
+[p][ ] -> [p ] 332
+[p][our ] -> [pour ] 333
+[j][’] -> [j’] 334
+[t][u ] -> [tu ] 335
+[b][i] -> [bi] 336
+[l][es ] -> [les ] 337
+[ou][r] -> [our] 338
+[�][�] -> [�] 339
+[�][�] -> [️] 340
+[�][�] -> [�] 341
+[�][�] -> [❤] 342
+[a][u ] -> [au ] 343
+[❤][️] -> [❤️] 344
+[a][v] -> [av] 345
+[c][ ] -> [c ] 346
+[s][s] -> [ss] 347
+[�][�] -> [è] 348
+[m][a] -> [ma] 349
+[e][b] -> [eb] 350
+[v][a ] -> [va ] 351
+[t][ou] -> [tou] 352
+[p][l] -> [pl] 353
+[pa][r] -> [par] 354
+[g][e ] -> [ge ] 355
+[eu][x ] -> [eux ] 356
+[❤️][ ] -> [❤️ ] 357
+[eb][ou ] -> [ebou ] 358
+[m][on ] -> [mon ] 359
+[d][u ] -> [du ] 360
+[v][i] -> [vi] 361
+[m][ais ] -> [mais ] 362
+[l][le ] -> [lle ] 363
+[e][t] -> [et] 364
+[d][i] -> [di] 365
+[O][u] -> [Ou] 366
+[su][is ] -> [suis ] 367
+[ou][s ] -> [ous ] 368
+[bi][en ] -> [bien ] 369
+[c][a ] -> [ca ] 370
+[�][�] -> [ç] 371
+[i][l ] -> [il ] 372
+[�][�] -> [ê] 373
+[oi][r ] -> [oir ] 374
+[an][t ] -> [ant ] 375
+[en][d] -> [end] 376
+[é][e ] -> [ée ] 377
+[j’][ai ] -> [j’ai ] 378
+[co][m] -> [com] 379
+[ç][a ] -> [ça ] 380
+[an][s ] -> [ans ] 381
+[t][re ] -> [tre ] 382
+[,][ ] -> [, ] 383
+[h][ ] -> [h ] 384
+[r][a] -> [ra] 385
+[�][�] -> [�] 386
+[m][i] -> [mi] 387
+[f][i] -> [fi] 388
+[eu][r ] -> [eur ] 389
+[v][ais ] -> [vais ] 390
+[tou][t ] -> [tout ] 391
+[u][ne ] -> [une ] 392
+[o][ ] -> [o ] 393
+[s][i ] -> [si ] 394
+[l][i] -> [li] 395
+[ti][t ] -> [tit ] 396
+[t][es ] -> [tes ] 397
+[d][es ] -> [des ] 398
+[l][’] -> [l’] 399
+[d][e] -> [de] 400
+[B][ebou ] -> [Bebou ] 401
+[y][ ] -> [y ] 402
+[l][l] -> [ll] 403
+[t][’] -> [t’] 404
+[c][on] -> [con] 405
+[d][ans ] -> [dans ] 406
+[J][’] -> [J’] 407
+[E][t ] -> [Et ] 408
+[!][ ] -> [! ] 409
+[?][?] -> [??] 410
+[c][ou] -> [cou] 411
+[or][s ] -> [ors ] 412
+[H][a ] -> [Ha ] 413
+[a][s ] -> [as ] 414
+[Ou][i ] -> [Oui ] 415
+[o][p ] -> [op ] 416
+[u][s ] -> [us ] 417
+[v][ous ] -> [vous ] 418
+[em][ent ] -> [ement ] 419
+[d][é] -> [dé] 420
+[d][’] -> [d’] 421
+[m][an] -> [man] 422
+[s][i] -> [si] 423
+[pe][tit ] -> [petit ] 424
+[e][c ] -> [ec ] 425
+[s][se ] -> [sse ] 426
+[t][oi ] -> [toi ] 427
+[ai][re ] -> [aire ] 428
+[f][ait ] -> [fait ] 429
+[ri][v] -> [riv] 430
+[b][on ] -> [bon ] 431
+[m][ent ] -> [ment ] 432
+[ai][n ] -> [ain ] 433
+[an][d ] -> [and ] 434
+[r][é] -> [ré] 435
+[su][r ] -> [sur ] 436
+[z][ ] -> [z ] 437
+[a][ge ] -> [age ] 438
+[pl][us ] -> [plus ] 439
+[av][ec ] -> [avec ] 440
+[t][’a] -> [t’a] 441
+[c][i ] -> [ci ] 442
+[qu][’] -> [qu’] 443
+[T][u ] -> [Tu ] 444
+[C][’est ] -> [C’est ] 445
+[O][n ] -> [On ] 446
+[l][s ] -> [ls ] 447
+[l][er ] -> [ler ] 448
+[è][re ] -> [ère ] 449
+[t][t] -> [tt] 450
+[k][ ] -> [k ] 451
+[p][o] -> [po] 452
+[r][en] -> [ren] 453
+[e][z ] -> [ez ] 454
+[qu][and ] -> [quand ] 455
+[u][r ] -> [ur ] 456
+[é][t] -> [ét] 457
+[ou][v] -> [ouv] 458
+[e][lle ] -> [elle ] 459
+[s][t] -> [st] 460
+[f][aire ] -> [faire ] 461
+[en][s ] -> [ens ] 462
+[d][’a] -> [d’a] 463
+[o][m] -> [om] 464
+[d][em] -> [dem] 465
+[c][a] -> [ca] 466
+[�][�] -> [😘] 467
+[n][i] -> [ni] 468
+[ss][i ] -> [ssi ] 469
+[tr][op ] -> [trop ] 470
+[m][oi ] -> [moi ] 471
+[cou][p ] -> [coup ] 472
+[on][ne ] -> [onne ] 473
+[v][r] -> [vr] 474
+[d][a] -> [da] 475
+[c][our] -> [cour] 476
+[v][eux ] -> [veux ] 477
+[J’][ai ] -> [J’ai ] 478
+[p][pe] -> [ppe] 479
+[on][t ] -> [ont ] 480
+[p][en] -> [pen] 481
+[oi][s ] -> [ois ] 482
+[m][’] -> [m’] 483
+[M][ais ] -> [Mais ] 484
+[s][oir ] -> [soir ] 485
+[au][ssi ] -> [aussi ] 486
+[😘][ ] -> [😘 ] 487
+[e][l] -> [el] 488
+[al][ors ] -> [alors ] 489
+[j][our] -> [jour] 490
+[je ][vais ] -> [je vais ] 491
+[qu][i ] -> [qui ] 492
+[�][�] -> [œ] 493
+[t][a] -> [ta] 494
+[m][er] -> [mer] 495
+[l][’a] -> [l’a] 496
+[c][u] -> [cu] 497
+[a][m] -> [am] 498
+[r][o] -> [ro] 499
+[pe][u ] -> [peu ] 500
+[je ][suis ] -> [je suis ] 501
+[B][on ] -> [Bon ] 502
+[p][i] -> [pi] 503
+[v][er] -> [ver] 504
+[b][ebou ] -> [bebou ] 505
+[co][eur ] -> [coeur ] 506
+[ch][e ] -> [che ] 507
+[n][on ] -> [non ] 508
+[m][on] -> [mon] 509
+[r][es] -> [res] 510
+[c][i] -> [ci] 511
+[œ][ur ] -> [œur ] 512
+[t][er ] -> [ter ] 513
+[t][s ] -> [ts ] 514
+[a][h] -> [ah] 515
+[m][e] -> [me] 516
+[f][ ] -> [f ] 517
+[ar][riv] -> [arriv] 518
+[s][er] -> [ser] 519
+[o][l] -> [ol] 520
+[qu][oi ] -> [quoi ] 521
+[a ][va ] -> [a va ] 522
+[pr][o] -> [pro] 523
+[b][le ] -> [ble ] 524
+[t][er] -> [ter] 525
+[p][s ] -> [ps ] 526
+[ti][on ] -> [tion ] 527
+[ma][da] -> [mada] 528
+[c][œur ] -> [cœur ] 529
+[ce ][soir ] -> [ce soir ] 530
+[d][i ] -> [di ] 531
+[ou][i ] -> [oui ] 532
+[an][ge ] -> [ange ] 533
+[man][g] -> [mang] 534
+[s][a] -> [sa] 535
+[pr][end] -> [prend] 536
+[u][s] -> [us] 537
+[N][on ] -> [Non ] 538
+[�][�] -> [�] 539
+[j][’a] -> [j’a] 540
+[i][ls ] -> [ils ] 541
+[un ][peu ] -> [un peu ] 542
+[è][s ] -> [ès ] 543
+[d][on] -> [don] 544
+[u][i ] -> [ui ] 545
+[�][�] -> [Ç] 546
+[pen][se ] -> [pense ] 547
+[f][ais ] -> [fais ] 548
+[eu][r] -> [eur] 549
+[mada][me ] -> [madame ] 550
+[v][oir ] -> [voir ] 551
+[b][a] -> [ba] 552
+[ren][tr] -> [rentr] 553
+[d][r ] -> [dr ] 554
+[e][i] -> [ei] 555
+[0][ ] -> [0 ] 556
+[p][eux ] -> [peux ] 557
+[a][a] -> [aa] 558
+[g][u] -> [gu] 559
+[b][ou] -> [bou] 560
+[ê][me ] -> [ême ] 561
+[pa][sse ] -> [passe ] 562
+[�][�] -> [ô] 563
+[co][r] -> [cor] 564
+[r][a ] -> [ra ] 565
+[o][o] -> [oo] 566
+[ça ][va ] -> [ça va ] 567
+[s][es ] -> [ses ] 568
+[en][d ] -> [end ] 569
+[tu ][veux ] -> [tu veux ] 570
+[m][ême ] -> [même ] 571
+[t][em] -> [tem] 572
+[m][a ] -> [ma ] 573
+[Je ][suis ] -> [Je suis ] 574
+[di][t ] -> [dit ] 575
+[tt][end] -> [ttend] 576
+[f][in] -> [fin] 577
+[oi][n] -> [oin] 578
+[t][e] -> [te] 579
+[m][in] -> [min] 580
+[??][??] -> [????] 581
+[s][ais ] -> [sais ] 582
+[M][er] -> [Mer] 583
+[co][re ] -> [core ] 584
+[c][r] -> [cr] 585
+[ê][tre ] -> [être ] 586
+[l][o] -> [lo] 587
+[mon ][ange ] -> [mon ange ] 588
+[l][à ] -> [là ] 589
+[de ][la ] -> [de la ] 590
+[p][h] -> [ph] 591
+[E][ ] -> [E ] 592
+[pa][ss] -> [pass] 593
+[e][u ] -> [eu ] 594
+[u][i] -> [ui] 595
+[au][t ] -> [aut ] 596
+[dem][ain ] -> [demain ] 597
+[O][k ] -> [Ok ] 598
+[t][ar] -> [tar] 599
+[qu][i] -> [qui] 600
+[t][on ] -> [ton ] 601
+[tem][ps ] -> [temps ] 602
+[I][l ] -> [Il ] 603
+[en][core ] -> [encore ] 604
+[fi][le ] -> [file ] 605
+[p][eu] -> [peu] 606
+[ri][en ] -> [rien ] 607
+[a][p] -> [ap] 608
+[:][(] -> [:(] 609
+[d][er ] -> [der ] 610
+[al][ler ] -> [aller ] 611
+[t][é ] -> [té ] 612
+[que ][je ] -> [que je ] 613
+[petit ][cœur ] -> [petit cœur ] 614
+[t’a][s ] -> [t’as ] 615
+[du ][coup ] -> [du coup ] 616
+[a][c] -> [ac] 617
+[ét][ait ] -> [était ] 618
+[e][x] -> [ex] 619
+[tr][ouv] -> [trouv] 620
+[Mer][ci ] -> [Merci ] 621
+[j][us] -> [jus] 622
+[don][c ] -> [donc ] 623
+[:(][ ] -> [:( ] 624
+[f][f] -> [ff] 625
+[s][ol] -> [sol] 626
+[c][cor] -> [ccor] 627
+[�][�] -> [ ] 628
+[oi][t ] -> [oit ] 629
+[e ][de ] -> [e de ] 630
+[B][i] -> [Bi] 631
+[p][u] -> [pu] 632
+[m][ar] -> [mar] 633
+[p][or] -> [por] 634
+[au][x ] -> [aux ] 635
+[v][o] -> [vo] 636
+[par][ti] -> [parti] 637
+[u][u] -> [uu] 638
+[et][te ] -> [ette ] 639
+[petit ][coeur ] -> [petit coeur ] 640
+[je ][te ] -> [je te ] 641
+[dans ][le ] -> [dans le ] 642
+[r][riv] -> [rriv] 643
+[ccor][d ] -> [ccord ] 644
+[a][h ] -> [ah ] 645
+[f][or] -> [for] 646
+[? ][Oui ] -> [? Oui ] 647
+[r][ais ] -> [rais ] 648
+[ah][a ] -> [aha ] 649
+[a][pr] -> [apr] 650
+[ma][ti] -> [mati] 651
+[g][ ] -> [g ] 652
+[g][ar] -> [gar] 653
+[Je ][vais ] -> [Je vais ] 654
+[com][me ] -> [comme ] 655
+[c][’] -> [c’] 656
+[p][er] -> [per] 657
+[T][’] -> [T’] 658
+[eur][s ] -> [eurs ] 659
+[b][e] -> [be] 660
+[d][is ] -> [dis ] 661
+[m][dr ] -> [mdr ] 662
+[n][ée ] -> [née ] 663
+[je ][pense ] -> [je pense ] 664
+[y ][a ] -> [y a ] 665
+[p][e ] -> [pe ] 666
+[mang][er ] -> [manger ] 667
+[ppe][lle ] -> [ppelle ] 668
+[i][e ] -> [ie ] 669
+[vi][ens ] -> [viens ] 670
+[p][é] -> [pé] 671
+[�][�] -> [â] 672
+[m][es ] -> [mes ] 673
+[g][r] -> [gr] 674
+[A][l] -> [Al] 675
+[t][a ] -> [ta ] 676
+[par][t ] -> [part ] 677
+[t][u] -> [tu] 678
+[cour][age ] -> [courage ] 679
+[f][a] -> [fa] 680
+[pa][r ] -> [par ] 681
+[�][�] -> [🤣] 682
+[que ][tu ] -> [que tu ] 683
+[an][ce ] -> [ance ] 684
+[pr][is ] -> [pris ] 685
+[ai][ll] -> [aill] 686
+[p][our] -> [pour] 687
+[ca ][va ] -> [ca va ] 688
+[b][l] -> [bl] 689
+[A][ ] -> [A ] 690
+[l][ui ] -> [lui ] 691
+[prend][re ] -> [prendre ] 692
+[vr][ai ] -> [vrai ] 693
+[r][er ] -> [rer ] 694
+[m][en] -> [men] 695
+[p][ère ] -> [père ] 696
+[r][r] -> [rr] 697
+[ou][l] -> [oul] 698
+[je ][me ] -> [je me ] 699
+[oi][n ] -> [oin ] 700
+[on][s ] -> [ons ] 701
+[de ][s] -> [de s] 702
+[C][a va ] -> [Ca va ] 703
+[m][o] -> [mo] 704
+[? ][Je ] -> [? Je ] 705
+[h][i] -> [hi] 706
+[f][aut ] -> [faut ] 707
+[t][o] -> [to] 708
+[s][ont ] -> [sont ] 709
+[pr][é] -> [pré] 710
+[L][e ] -> [Le ] 711
+[s][er ] -> [ser ] 712
+[es][sa] -> [essa] 713
+[m][ ] -> [m ] 714
+[qu][es ] -> [ques ] 715
+[d][ou] -> [dou] 716
+[v][oi] -> [voi] 717
+[ra][s ] -> [ras ] 718
+[i][m] -> [im] 719
+[t][en] -> [ten] 720
+[b][onne ] -> [bonne ] 721
+[vr][ai] -> [vrai] 722
+[n][es ] -> [nes ] 723
+[P][ar] -> [Par] 724
+[D][’a] -> [D’a] 725
+[Bi][en ] -> [Bien ] 726
+[ch][o] -> [cho] 727
+[ttend][s ] -> [ttends ] 728
+[e][e] -> [ee] 729
+[jus][te ] -> [juste ] 730
+[ma][l ] -> [mal ] 731
+[S][ ] -> [S ] 732
+[v][en] -> [ven] 733
+[Ç][a va ] -> [Ça va ] 734
+[su][r] -> [sur] 735
+[p][er ] -> [per ] 736
+[et ][je ] -> [et je ] 737
+[s][in] -> [sin] 738
+[ou][t ] -> [out ] 739
+[pa][u] -> [pau] 740
+[t’][es ] -> [t’es ] 741
+[S][i ] -> [Si ] 742
+[d][or] -> [dor] 743
+[O][h ] -> [Oh ] 744
+[J][’a] -> [J’a] 745
+[ch][er ] -> [cher ] 746
+[Ou][ais ] -> [Ouais ] 747
+[v][u ] -> [vu ] 748
+[s][or] -> [sor] 749
+[P][as ] -> [Pas ] 750
+[e][l ] -> [el ] 751
+[�][�] -> [�] 752
+[com][ment ] -> [comment ] 753
+[oin][s ] -> [oins ] 754
+[j][our ] -> [jour ] 755
+[y][er ] -> [yer ] 756
+[s][on ] -> [son ] 757
+[re][gar] -> [regar] 758
+[n][a] -> [na] 759
+[a ][la ] -> [a la ] 760
+[ch][a] -> [cha] 761
+[vrai][ment ] -> [vraiment ] 762
+[B][ah ] -> [Bah ] 763
+[’a][s ] -> [’as ] 764
+[qu’][il ] -> [qu’il ] 765
+[eu][re ] -> [eure ] 766
+[t][ant ] -> [tant ] 767
+[g][ro] -> [gro] 768
+[al][l] -> [all] 769
+[D’a][ccord ] -> [D’accord ] 770
+[pas ][trop ] -> [pas trop ] 771
+[an][d] -> [and] 772
+[ra][con] -> [racon] 773
+[d][es] -> [des] 774
+[aill][eurs ] -> [ailleurs ] 775
+[b][u] -> [bu] 776
+[l][ai] -> [lai] 777
+[tar][d ] -> [tard ] 778
+[quand ][même ] -> [quand même ] 779
+[ch][ez ] -> [chez ] 780
+[T][ ] -> [T ] 781
+[mer][ci ] -> [merci ] 782
+[ai][n] -> [ain] 783
+[!][!] -> [!!] 784
+[r][es ] -> [res ] 785
+[Ç][a ] -> [Ça ] 786
+[L][a ] -> [La ] 787
+[C][a ] -> [Ca ] 788
+[’][a ] -> [’a ] 789
+[Y][es ] -> [Yes ] 790
+[mati][n ] -> [matin ] 791
+[r][ou] -> [rou] 792
+[di][s] -> [dis] 793
+[à ][la ] -> [à la ] 794
+[o][l ] -> [ol ] 795
+[i][r ] -> [ir ] 796
+[s][em] -> [sem] 797
+[pr][end ] -> [prend ] 798
+[pas ][de ] -> [pas de ] 799
+[l][a] -> [la] 800
+[m’][a ] -> [m’a ] 801
+[sur ][le ] -> [sur le ] 802
+[b][li] -> [bli] 803
+[mi][eux ] -> [mieux ] 804
+[su][i] -> [sui] 805
+[pl][a] -> [pla] 806
+[)][ ] -> [) ] 807
+[n][o] -> [no] 808
+[in][qui] -> [inqui] 809
+[dans ][la ] -> [dans la ] 810
+[di][re ] -> [dire ] 811
+[h][eure ] -> [heure ] 812
+[al][ement ] -> [alement ] 813
+[peu][t ] -> [peut ] 814
+[o][k ] -> [ok ] 815
+[j][à ] -> [jà ] 816
+[t][-] -> [t-] 817
+[j][ou] -> [jou] 818
+[T][’as ] -> [T’as ] 819
+[al][i] -> [ali] 820
+[jour][née ] -> [journée ] 821
+[sais ][pas ] -> [sais pas ] 822
+[se ][passe ] -> [se passe ] 823
+[on ][a ] -> [on a ] 824
+[ch][au] -> [chau] 825
+[qu][el] -> [quel] 826
+[t][ô] -> [tô] 827
+[mi][di ] -> [midi ] 828
+[av][ant ] -> [avant ] 829
+[tr][u] -> [tru] 830
+[Et ][vous ] -> [Et vous ] 831
+[C][om] -> [Com] 832
+[g][a] -> [ga] 833
+[d][on ] -> [don ] 834
+[jour][s ] -> [jours ] 835
+[ui][t ] -> [uit ] 836
+[o][�] -> [o�] 837
+[es][père ] -> [espère ] 838
+[O][U] -> [OU] 839
+[T][r] -> [Tr] 840
+[tô][t ] -> [tôt ] 841
+[ch][i] -> [chi] 842
+[pour ][le ] -> [pour le ] 843
+[co][ol ] -> [cool ] 844
+[d][er] -> [der] 845
+[ss][i] -> [ssi] 846
+[en][vi] -> [envi] 847
+[tu ][me ] -> [tu me ] 848
+[an][g] -> [ang] 849
+[B][on] -> [Bon] 850
+[ré][u] -> [réu] 851
+[et][ait ] -> [etait ] 852
+[rriv][e ] -> [rrive ] 853
+[m][oins ] -> [moins ] 854
+[ei][n ] -> [ein ] 855
+[d][o] -> [do] 856
+[T][out ] -> [Tout ] 857
+[ni][on ] -> [nion ] 858
+[c’est ][pas ] -> [c’est pas ] 859
+[A][r] -> [Ar] 860
+[es][oin ] -> [esoin ] 861
+[mon][de ] -> [monde ] 862
+[va ][bien ] -> [va bien ] 863
+[es][s] -> [ess] 864
+[e][au ] -> [eau ] 865
+[/][ ] -> [/ ] 866
+[en ][plus ] -> [en plus ] 867
+[ê][te ] -> [ête ] 868
+[f][er] -> [fer] 869
+[B][onne ] -> [Bonne ] 870
+[pr][i] -> [pri] 871
+[dé][jà ] -> [déjà ] 872
+[3][0 ] -> [30 ] 873
+[c’][était ] -> [c’était ] 874
+[st][p ] -> [stp ] 875
+[ai][ne ] -> [aine ] 876
+[rentr][er ] -> [rentrer ] 877
+[D][é] -> [Dé] 878
+[2][ ] -> [2 ] 879
+[vi][ent ] -> [vient ] 880
+[mon ][Bebou ] -> [mon Bebou ] 881
+[E][n ] -> [En ] 882
+[????][????] -> [????????] 883
+[:][/ ] -> [:/ ] 884
+[m][our ] -> [mour ] 885
+[tr][ès ] -> [très ] 886
+[inqui][è] -> [inquiè] 887
+[re][t] -> [ret] 888
+[tr][es ] -> [tres ] 889
+[c][ar] -> [car] 890
+[m][’a] -> [m’a] 891
+[5][ ] -> [5 ] 892
+[C][our] -> [Cour] 893
+[u][e ] -> [ue ] 894
+[�][ ] -> [� ] 895
+[R][ ] -> [R ] 896
+[s][’est ] -> [s’est ] 897
+[on ][est ] -> [on est ] 898
+[c][e] -> [ce] 899
+[ren][tre ] -> [rentre ] 900
+[ou][ais ] -> [ouais ] 901
+[d’][h] -> [d’h] 902
+[🤣][ ] -> [🤣 ] 903
+[s][oi] -> [soi] 904
+[si][eur ] -> [sieur ] 905
+[ver][s ] -> [vers ] 906
+[en][ts ] -> [ents ] 907
+[Cour][age ] -> [Courage ] 908
+[ai][me ] -> [aime ] 909
+[s][ous ] -> [sous ] 910
+[�][ ] -> [� ] 911
+[d’][ailleurs ] -> [d’ailleurs ] 912
+[oi][re ] -> [oire ] 913
+[parti][r ] -> [partir ] 914
+[i][i] -> [ii] 915
+[ti][ens ] -> [tiens ] 916
+[n][ous ] -> [nous ] 917
+[t][h] -> [th] 918
+[con][tre ] -> [contre ] 919
+[�][�] -> [«] 920
+[fi][n ] -> [fin ] 921
+[tr][ain ] -> [train ] 922
+[h][aha ] -> [haha ] 923
+[m][é] -> [mé] 924
+[b][esoin ] -> [besoin ] 925
+[mer][de ] -> [merde ] 926
+[me][me ] -> [meme ] 927
+[tou][te ] -> [toute ] 928
+[si ][tu veux ] -> [si tu veux ] 929
+[pu][is ] -> [puis ] 930
+[sin][on ] -> [sinon ] 931
+[c][ette ] -> [cette ] 932
+[e][c] -> [ec] 933
+[«][ ] -> [« ] 934
+[t’][en ] -> [t’en ] 935
+[b][o] -> [bo] 936
+[be][au] -> [beau] 937
+[g][i] -> [gi] 938
+[on ][va ] -> [on va ] 939
+[et][s ] -> [ets ] 940
+[c][en] -> [cen] 941
+[Et ][toi ] -> [Et toi ] 942
+[cour][ses ] -> [courses ] 943
+[Al][ors ] -> [Alors ] 944
+[t][é] -> [té] 945
+[r][em] -> [rem] 946
+[cho][se ] -> [chose ] 947
+[d’a][mour ] -> [d’amour ] 948
+[sui][te ] -> [suite ] 949
+[pass][er ] -> [passer ] 950
+[ ][�] -> [ �] 951
+[Y][ ] -> [Y ] 952
+[prend][s ] -> [prends ] 953
+[g][n] -> [gn] 954
+[Bon][jour ] -> [Bonjour ] 955
+[mon][sieur ] -> [monsieur ] 956
+[ser][a ] -> [sera ] 957
+[s][ou] -> [sou] 958
+[i][ll] -> [ill] 959
+[ppe][ler ] -> [ppeler ] 960
+[? ][Non ] -> [? Non ] 961
+[beau][coup ] -> [beaucoup ] 962
+[t-][être ] -> [t-être ] 963
+[il ][est ] -> [il est ] 964
+[res][te ] -> [reste ] 965
+[s][’] -> [s’] 966
+[res][t] -> [rest] 967
+[dé][sol] -> [désol] 968
+[n][ouv] -> [nouv] 969
+[I][ls ] -> [Ils ] 970
+[jour][d’h] -> [jourd’h] 971
+[qu’][on ] -> [qu’on ] 972
+[e][, ] -> [e, ] 973
+[po][se ] -> [pose ] 974
+[av][oir ] -> [avoir ] 975
+[T’][es ] -> [T’es ] 976
+[p][on] -> [pon] 977
+[dem][an] -> [deman] 978
+[v][as ] -> [vas ] 979
+[pro][fi] -> [profi] 980
+[c][ô] -> [cô] 981
+[ph][o] -> [pho] 982
+[ �][� ] -> [ » ] 983
+[el][les ] -> [elles ] 984
+[i][s] -> [is] 985
+[s][eu] -> [seu] 986
+[gro][s ] -> [gros ] 987
+[v][e ] -> [ve ] 988
+[j’ai ][pas ] -> [j’ai pas ] 989
+[f][r] -> [fr] 990
+[on][n] -> [onn] 991
+[Je ][te ] -> [Je te ] 992
+[l][les ] -> [lles ] 993
+[si ][tu ] -> [si tu ] 994
+[1][ ] -> [1 ] 995
+[o][c] -> [oc] 996
+[f][ai] -> [fai] 997
+[�][�] -> [🥰] 998
+[inquiè][tes ] -> [inquiètes ] 999
+[jourd’h][ui ] -> [jourd’hui ] 1000
+[n][uit ] -> [nuit ] 1001
+[d][eux ] -> [deux ] 1002
+[n][u] -> [nu] 1003
+[Tr][op ] -> [Trop ] 1004
+[mi][n ] -> [min ] 1005
+[a ][l’] -> [a l’] 1006
+[i][ci ] -> [ici ] 1007
+[Je ][file ] -> [Je file ] 1008
+[s][ors ] -> [sors ] 1009
+[tru][c ] -> [truc ] 1010
+[de][j] -> [dej] 1011
+[te ][de ] -> [te de ] 1012
+[B][en ] -> [Ben ] 1013
+[om][is ] -> [omis ] 1014
+[ai][l ] -> [ail ] 1015
+[en][t] -> [ent] 1016
+[je ][t’] -> [je t’] 1017
+[3][ ] -> [3 ] 1018
+[tout ][le ] -> [tout le ] 1019
+[de][v] -> [dev] 1020
+[tou][s ] -> [tous ] 1021
+[pau][se ] -> [pause ] 1022
+[ce ][matin ] -> [ce matin ] 1023
+[? ][Ha ] -> [? Ha ] 1024
+[soi][r] -> [soir] 1025
+[ch][er] -> [cher] 1026
+[s][ans ] -> [sans ] 1027
+[c’est ][bon ] -> [c’est bon ] 1028
+[et][re ] -> [etre ] 1029
+[cô][té ] -> [côté ] 1030
+[l’a][p] -> [l’ap] 1031
+[vi][te ] -> [vite ] 1032
+[em][i] -> [emi] 1033
+[au][jourd’hui ] -> [aujourd’hui ] 1034
+[M][oi ] -> [Moi ] 1035
+[viens ][de ] -> [viens de ] 1036
+[à ][l’] -> [à l’] 1037
+[c][as ] -> [cas ] 1038
+[pé][tit ] -> [pétit ] 1039
+[peu][t-être ] -> [peut-être ] 1040
+[mi][r ] -> [mir ] 1041
+[a][tt] -> [att] 1042
+[s][al] -> [sal] 1043
+[tr][a] -> [tra] 1044
+[tr][an] -> [tran] 1045
+[b][er ] -> [ber ] 1046
+[Ar][f ] -> [Arf ] 1047
+[b][re ] -> [bre ] 1048
+[a][l ] -> [al ] 1049
+[é][s ] -> [és ] 1050
+[l][on] -> [lon] 1051
+[ou][bli] -> [oubli] 1052
+[am][our ] -> [amour ] 1053
+[h][30 ] -> [h30 ] 1054
+[v][eu] -> [veu] 1055
+[v][oul] -> [voul] 1056
+[ver][re ] -> [verre ] 1057
+[u][r] -> [ur] 1058
+[N][ ] -> [N ] 1059
+[ap][pétit ] -> [appétit ] 1060
+[Q][u] -> [Qu] 1061
+[c][al] -> [cal] 1062
+[g][en] -> [gen] 1063
+[av][ait ] -> [avait ] 1064
+[On ][est ] -> [On est ] 1065
+[t][o ] -> [to ] 1066
+[for][t ] -> [fort ] 1067
+[j’][espère ] -> [j’espère ] 1068
+[c][es ] -> [ces ] 1069
+[pe][ti] -> [peti] 1070
+[t’a][ppelle ] -> [t’appelle ] 1071
+[ba][r ] -> [bar ] 1072
+[ce ][que ] -> [ce que ] 1073
+[❤️][❤️ ] -> [❤️❤️ ] 1074
+[f][l] -> [fl] 1075
+[�][�] -> [û] 1076
+[f][u] -> [fu] 1077
+[po][s] -> [pos] 1078
+[pour ][la ] -> [pour la ] 1079
+[apr][ès ] -> [après ] 1080
+[Bien ][arriv] -> [Bien arriv] 1081
+[c][re] -> [cre] 1082
+[Tu ][me ] -> [Tu me ] 1083
+[�][� ] -> [… ] 1084
+[in][st] -> [inst] 1085
+[mon ][coeur ] -> [mon coeur ] 1086
+[m][et] -> [met] 1087
+[vo][y] -> [voy] 1088
+[pr][es] -> [pres] 1089
+[ré][v] -> [rév] 1090
+[Y ][a ] -> [Y a ] 1091
+[cr][ois ] -> [crois ] 1092
+[re][j] -> [rej] 1093
+[�][ ] -> [� ] 1094
+[g][er ] -> [ger ] 1095
+[a][ttend] -> [attend] 1096
+[1][0] -> [10] 1097
+[gu][e ] -> [gue ] 1098
+[�][�] -> [�] 1099
+[Com][ment ] -> [Comment ] 1100
+[em][ ] -> [em ] 1101
+[4][ ] -> [4 ] 1102
+[f][ois ] -> [fois ] 1103
+[�][ ] -> [� ] 1104
+[com][men] -> [commen] 1105
+[d][re ] -> [dre ] 1106
+[s][, ] -> [s, ] 1107
+[?][? ] -> [?? ] 1108
+[et][tes ] -> [ettes ] 1109
+[r][ement ] -> [rement ] 1110
+[C’est ][bon ] -> [C’est bon ] 1111
+[réu][nion ] -> [réunion ] 1112
+[a][n ] -> [an ] 1113
+[tr][av] -> [trav] 1114
+[tu][re ] -> [ture ] 1115
+[u][t] -> [ut] 1116
+[tou][jours ] -> [toujours ] 1117
+[b][en ] -> [ben ] 1118
+[mon ][amour ] -> [mon amour ] 1119
+[sor][ti] -> [sorti] 1120
+[je ][peux ] -> [je peux ] 1121
+[f][on] -> [fon] 1122
+[v][re ] -> [vre ] 1123
+[tr][o ] -> [tro ] 1124
+[�][�] -> [😂] 1125
+[ret][our ] -> [retour ] 1126
+[y][’a ] -> [y’a ] 1127
+[R][E] -> [RE] 1128
+[il ][a ] -> [il a ] 1129
+[t][i ] -> [ti ] 1130
+[g][ne ] -> [gne ] 1131
+[pour ][toi ] -> [pour toi ] 1132
+[v][ ] -> [v ] 1133
+[de ][l’] -> [de l’] 1134
+[2][0] -> [20] 1135
+[trouv][er ] -> [trouver ] 1136
+[lo][t ] -> [lot ] 1137
+[mar][che ] -> [marche ] 1138
+[o�][� ] -> [où ] 1139
+[au][d] -> [aud] 1140
+[l’ap][part ] -> [l’appart ] 1141
+[se passe ][bien ] -> [se passe bien ] 1142
+[ce ][midi ] -> [ce midi ] 1143
+[racon][ter] -> [raconter] 1144
+[E][lle ] -> [Elle ] 1145
+[fais ][pas ] -> [fais pas ] 1146
+[e][re ] -> [ere ] 1147
+[bon ][courage ] -> [bon courage ] 1148
+[con][n] -> [conn] 1149
+[k][ok ] -> [kok ] 1150
+[i][ra ] -> [ira ] 1151
+[sur ][la ] -> [sur la ] 1152
+[H][aa] -> [Haa] 1153
+[re][c] -> [rec] 1154
+[le ][temps ] -> [le temps ] 1155
+[u][rais ] -> [urais ] 1156
+[soir][ée ] -> [soirée ] 1157
+[arriv][e ] -> [arrive ] 1158
+[cha][t ] -> [chat ] 1159
+[s][oit ] -> [soit ] 1160
+[chau][d ] -> [chaud ] 1161
+[pl][i] -> [pli] 1162
+[t][es] -> [tes] 1163
+[D][on] -> [Don] 1164
+[d][o ] -> [do ] 1165
+[en ][vrai ] -> [en vrai ] 1166
+[�][�] -> [î] 1167
+[h][ein ] -> [hein ] 1168
+[em][b] -> [emb] 1169
+[ai][r ] -> [air ] 1170
+[Don][c ] -> [Donc ] 1171
+[l][u] -> [lu] 1172
+[quel][que ] -> [quelque ] 1173
+[per][s] -> [pers] 1174
+[c’][etait ] -> [c’etait ] 1175
+[par][ents ] -> [parents ] 1176
+[�][� ] -> [€ ] 1177
+[de][puis ] -> [depuis ] 1178
+[b][r] -> [br] 1179
+[.][ ] -> [. ] 1180
+[V][ous ] -> [Vous ] 1181
+[com][man] -> [comman] 1182
+[oo][oo] -> [oooo] 1183
+[s][y] -> [sy] 1184
+[essa][yer ] -> [essayer ] 1185
+[j’][suis ] -> [j’suis ] 1186
+[au][tre ] -> [autre ] 1187
+[m][p] -> [mp] 1188
+[hi][er ] -> [hier ] 1189
+[Dé][sol] -> [Désol] 1190
+[bu][re] -> [bure] 1191
+[en][tr] -> [entr] 1192
+[n][’] -> [n’] 1193
+[a][ss] -> [ass] 1194
+[mang][é ] -> [mangé ] 1195
+[ch][e] -> [che] 1196
+[pour][quoi ] -> [pourquoi ] 1197
+[j’][i] -> [j’i] 1198
+[dor][mir ] -> [dormir ] 1199
+[a][de ] -> [ade ] 1200
+[qu][elle ] -> [quelle ] 1201
+[ss][er ] -> [sser ] 1202
+[du ][tout ] -> [du tout ] 1203
+[ét][ais ] -> [étais ] 1204
+[cour][ant ] -> [courant ] 1205
+[je ][sais pas ] -> [je sais pas ] 1206
+[Ou][la ] -> [Oula ] 1207
+[rentr][ant ] -> [rentrant ] 1208
+[d][ois ] -> [dois ] 1209
+[av][e ] -> [ave ] 1210
+[c][an] -> [can] 1211
+[trouv][e ] -> [trouve ] 1212
+[vous ][? ] -> [vous ? ] 1213
+[v][ois ] -> [vois ] 1214
+[1][8] -> [18] 1215
+[h][a] -> [ha] 1216
+[s][au] -> [sau] 1217
+[j’a][rrive ] -> [j’arrive ] 1218
+[s][a ] -> [sa ] 1219
+[U][n ] -> [Un ] 1220
+[c][lo] -> [clo] 1221
+[C][’] -> [C’] 1222
+[n][or] -> [nor] 1223
+[tu ][peux ] -> [tu peux ] 1224
+[min][u] -> [minu] 1225
+[man][ge ] -> [mange ] 1226
+[ch][et] -> [chet] 1227
+[s][û] -> [sû] 1228
+[fin][alement ] -> [finalement ] 1229
+[au ][moins ] -> [au moins ] 1230
+[essa][y] -> [essay] 1231
+[m][al] -> [mal] 1232
+[en ][rentrant ] -> [en rentrant ] 1233
+[e][il ] -> [eil ] 1234
+['][est ] -> ['est ] 1235
+[par ][contre ] -> [par contre ] 1236
+[ch][ ] -> [ch ] 1237
+[v][ali] -> [vali] 1238
+[l][e] -> [le] 1239
+[ll][er ] -> [ller ] 1240
+[rou][te ] -> [route ] 1241
+[bou][lot ] -> [boulot ] 1242
+[d’a][ccord ] -> [d’accord ] 1243
+[j’a][vais ] -> [j’avais ] 1244
+[Je ][t’] -> [Je t’] 1245
+[rest][au ] -> [restau ] 1246
+[E][n] -> [En] 1247
+[su][per ] -> [super ] 1248
+[dev][ant ] -> [devant ] 1249
+[der][ni] -> [derni] 1250
+[a][g] -> [ag] 1251
+[au ][courant ] -> [au courant ] 1252
+[j]['] -> [j'] 1253
+[besoin ][de ] -> [besoin de ] 1254
+[po][ser ] -> [poser ] 1255
+[j’][y ] -> [j’y ] 1256
+[r][eu] -> [reu] 1257
+[J’][suis ] -> [J’suis ] 1258
+[pla][ce ] -> [place ] 1259
+[com][p] -> [comp] 1260
+[par][s ] -> [pars ] 1261
+[c’est ][un ] -> [c’est un ] 1262
+[? ][P] -> [? P] 1263
+[m’][en ] -> [m’en ] 1264
+[j][u] -> [ju] 1265
+[bure][au ] -> [bureau ] 1266
+[r][ai] -> [rai] 1267
+[fi][ler ] -> [filer ] 1268
+[�][�] -> [�] 1269
+[A][I] -> [AI] 1270
+[pour ][les ] -> [pour les ] 1271
+[eb][ou] -> [ebou] 1272
+[de s][ou] -> [de sou] 1273
+[li][t ] -> [lit ] 1274
+[sem][ble ] -> [semble ] 1275
+[pr][omis ] -> [promis ] 1276
+[l][é ] -> [lé ] 1277
+[por][te ] -> [porte ] 1278
+[!][! ] -> [!! ] 1279
+[h][â] -> [hâ] 1280
+[fa][ti] -> [fati] 1281
+[M][dr ] -> [Mdr ] 1282
+[d][r] -> [dr] 1283
+[t][ement ] -> [tement ] 1284
+[ee][k] -> [eek] 1285
+[pass][é ] -> [passé ] 1286
+[h][o] -> [ho] 1287
+[e][h] -> [eh] 1288
+[envi][e de ] -> [envie de ] 1289
+[que ][ca ] -> [que ca ] 1290
+[j’][en ] -> [j’en ] 1291
+[quelque ][chose ] -> [quelque chose ] 1292
+[par][don ] -> [pardon ] 1293
+[si][on ] -> [sion ] 1294
+[veu][t ] -> [veut ] 1295
+[r][ê] -> [rê] 1296
+[d][rr] -> [drr] 1297
+[Je ][me ] -> [Je me ] 1298
+[b][on] -> [bon] 1299
+[Bon ][appétit ] -> [Bon appétit ] 1300
+[j][a] -> [ja] 1301
+[g][o ] -> [go ] 1302
+[ll][ement ] -> [llement ] 1303
+[min][s ] -> [mins ] 1304
+[s][o] -> [so] 1305
+[de][aux ] -> [deaux ] 1306
+[on ][se ] -> [on se ] 1307
+[r][ai ] -> [rai ] 1308
+[sur][tout ] -> [surtout ] 1309
+[ch][am] -> [cham] 1310
+[ét][é ] -> [été ] 1311
+[ré][pon] -> [répon] 1312
+[s][ens ] -> [sens ] 1313
+[D][u ] -> [Du ] 1314
+[r][ait ] -> [rait ] 1315
+[a][tion ] -> [ation ] 1316
+[don][n] -> [donn] 1317
+[Bebou ][❤️ ] -> [Bebou ❤️ ] 1318
+[ch][ar] -> [char] 1319
+[minu][tes ] -> [minutes ] 1320
+[in][cen] -> [incen] 1321
+[qu][é ] -> [qué ] 1322
+[en][suite ] -> [ensuite ] 1323
+[lai][sse ] -> [laisse ] 1324
+[j][et ] -> [jet ] 1325
+[a][s] -> [as] 1326
+[le ][faire ] -> [le faire ] 1327
+[H][o ] -> [Ho ] 1328
+[🥰][ ] -> [🥰 ] 1329
+[Bon ][courage ] -> [Bon courage ] 1330
+[L][es ] -> [Les ] 1331
+[a][ble ] -> [able ] 1332
+[c][k] -> [ck] 1333
+[p][u ] -> [pu ] 1334
+[ven][ir ] -> [venir ] 1335
+[tout ][va bien ] -> [tout va bien ] 1336
+[1][1] -> [11] 1337
+[mais ][c’est ] -> [mais c’est ] 1338
+[l][eur ] -> [leur ] 1339
+[tar][der ] -> [tarder ] 1340
+[eek][-] -> [eek-] 1341
+[8][ ] -> [8 ] 1342
+[!!][! ] -> [!!! ] 1343
+[ja][mais ] -> [jamais ] 1344
+[c][is ] -> [cis ] 1345
+[fin][i ] -> [fini ] 1346
+[Bonjour ][vous ] -> [Bonjour vous ] 1347
+[d’a][rriv] -> [d’arriv] 1348
+[an][c] -> [anc] 1349
+[ex][and] -> [exand] 1350
+[s][e] -> [se] 1351
+[je ][file ] -> [je file ] 1352
+[�][�] -> [É] 1353
+[l][u ] -> [lu ] 1354
+[a][ppe] -> [appe] 1355
+[apr][es ] -> [apres ] 1356
+[O][kok ] -> [Okok ] 1357
+[que ][c’est ] -> [que c’est ] 1358
+[cu][i] -> [cui] 1359
+[ai][se ] -> [aise ] 1360
+[exand][re ] -> [exandre ] 1361
+[d][é ] -> [dé ] 1362
+[regar][de ] -> [regarde ] 1363
+[??][? ] -> [??? ] 1364
+[h][é] -> [hé] 1365
+[bi][en] -> [bien] 1366
+[rév][ei] -> [révei] 1367
+[Tu ][veux ] -> [Tu veux ] 1368
+[er][ie ] -> [erie ] 1369
+[w][eek-] -> [week-] 1370
+[1][7] -> [17] 1371
+[t’][inquiètes ] -> [t’inquiètes ] 1372
+[pas ][tarder ] -> [pas tarder ] 1373
+[m][is ] -> [mis ] 1374
+[m][or] -> [mor] 1375
+[dej][a ] -> [deja ] 1376
+[c][ro] -> [cro] 1377
+[pho][to ] -> [photo ] 1378
+[mais ][je ] -> [mais je ] 1379
+[pr][ès ] -> [près ] 1380
+[vient ][de ] -> [vient de ] 1381
+[oc][cu] -> [occu] 1382
+[ti][ons ] -> [tions ] 1383
+[er][s ] -> [ers ] 1384
+[m][er ] -> [mer ] 1385
+[m][ess] -> [mess] 1386
+[m][i ] -> [mi ] 1387
+[d][s ] -> [ds ] 1388
+[c][ri] -> [cri] 1389
+[c][l] -> [cl] 1390
+[incen][nes ] -> [incennes ] 1391
+[d’arriv][er ] -> [d’arriver ] 1392
+[Par][don ] -> [Pardon ] 1393
+[b][ ] -> [b ] 1394
+[sem][aine ] -> [semaine ] 1395
+[t][el] -> [tel] 1396
+[ba][h ] -> [bah ] 1397
+[On ][a ] -> [On a ] 1398
+[pr][e] -> [pre] 1399
+[dou][che ] -> [douche ] 1400
+[I][ ] -> [I ] 1401
+[por][t ] -> [port ] 1402
+[en][semble ] -> [ensemble ] 1403
+[week-][end ] -> [week-end ] 1404
+[mon ][cœur ] -> [mon cœur ] 1405
+[????????][????????] -> [????????????????] 1406
+[chet][er ] -> [cheter ] 1407
+[di][rec] -> [direc] 1408
+[o][ph] -> [oph] 1409
+[é][ri] -> [éri] 1410
+[pr][emi] -> [premi] 1411
+[ra][m] -> [ram] 1412
+[v][end] -> [vend] 1413
+[c][et ] -> [cet ] 1414
+[gr][ave ] -> [grave ] 1415
+[tout le ][monde ] -> [tout le monde ] 1416
+[A][u] -> [Au] 1417
+[O][ ] -> [O ] 1418
+[M][ar] -> [Mar] 1419
+[g][é] -> [gé] 1420
+[ils ][ont ] -> [ils ont ] 1421
+[j][eu] -> [jeu] 1422
+[mess][age ] -> [message ] 1423
+[tu ][as ] -> [tu as ] 1424
+[p][i ] -> [pi ] 1425
+[t][ent ] -> [tent ] 1426
+[mo][ment ] -> [moment ] 1427
+[m][ai] -> [mai] 1428
+[ê][tes ] -> [êtes ] 1429
+[Bebou ][? ] -> [Bebou ? ] 1430
+[à ][toi ] -> [à toi ] 1431
+[po][ssi] -> [possi] 1432
+[regar][der ] -> [regarder ] 1433
+[ré][cu] -> [récu] 1434
+[in][ter ] -> [inter ] 1435
+[en][voi] -> [envoi] 1436
+[m][ain] -> [main] 1437
+[e][e ] -> [ee ] 1438
+[de][vr] -> [devr] 1439
+[de ][mon ] -> [de mon ] 1440
+[un ][verre ] -> [un verre ] 1441
+[met][tre ] -> [mettre ] 1442
+[en ][a ] -> [en a ] 1443
+[er][ai ] -> [erai ] 1444
+[te][l ] -> [tel ] 1445
+[av][ez ] -> [avez ] 1446
+[Tout ][va bien ] -> [Tout va bien ] 1447
+[en][du ] -> [endu ] 1448
+[rej][oin] -> [rejoin] 1449
+[? ][J’ai ] -> [? J’ai ] 1450
+[g][es ] -> [ges ] 1451
+[b][oire ] -> [boire ] 1452
+[�][�] -> [🤯] 1453
+[tu ][vas ] -> [tu vas ] 1454
+[v][é ] -> [vé ] 1455
+[😂][ ] -> [😂 ] 1456
+[in][g ] -> [ing ] 1457
+[ma][gi] -> [magi] 1458
+[désol][ée ] -> [désolée ] 1459
+[Du ][coup ] -> [Du coup ] 1460
+[p][ti] -> [pti] 1461
+[et ][j’ai ] -> [et j’ai ] 1462
+[pau][vre ] -> [pauvre ] 1463
+[ter][min] -> [termin] 1464
+[c]['est ] -> [c'est ] 1465
+[e][ti] -> [eti] 1466
+[faire ][un ] -> [faire un ] 1467
+[f][ou ] -> [fou ] 1468
+[d’][ici ] -> [d’ici ] 1469
+[C][e ] -> [Ce ] 1470
+[ai][ent ] -> [aient ] 1471
+[J’a][rrive ] -> [J’arrive ] 1472
+[:][ ] -> [: ] 1473
+[en ][fait ] -> [en fait ] 1474
+[trav][ail ] -> [travail ] 1475
+[magi][ne ] -> [magine ] 1476
+[c][er] -> [cer] 1477
+[parti][e ] -> [partie ] 1478
+[gr][and ] -> [grand ] 1479
+[ca][f] -> [caf] 1480
+[re][pas ] -> [repas ] 1481
+[à l’][heure ] -> [à l’heure ] 1482
+[essayer ][de ] -> [essayer de ] 1483
+[deman][de ] -> [demande ] 1484
+[end][re ] -> [endre ] 1485
+[je ][fais ] -> [je fais ] 1486
+[l’][ai ] -> [l’ai ] 1487
+[d][u] -> [du] 1488
+[des][c] -> [desc] 1489
+[ac][ques ] -> [acques ] 1490
+[bi][sous ] -> [bisous ] 1491
+[en ][vi] -> [en vi] 1492
+[f][en] -> [fen] 1493
+[d][v ] -> [dv ] 1494
+[p][o ] -> [po ] 1495
+[r][ang] -> [rang] 1496
+[re][di ] -> [redi ] 1497
+[f][ri] -> [fri] 1498
+[madame ][bebou ] -> [madame bebou ] 1499
+[h][ah] -> [hah] 1500
+[possi][ble ] -> [possible ] 1501
+[s][’a] -> [s’a] 1502
+[ti][e ] -> [tie ] 1503
+[inst][ant ] -> [instant ] 1504
+[sy][mp] -> [symp] 1505
+[pers][onne ] -> [personne ] 1506
+[b][as ] -> [bas ] 1507
+[RE][R ] -> [RER ] 1508
+[h][h] -> [hh] 1509
+[ser][ait ] -> [serait ] 1510
+[M][drr] -> [Mdrr] 1511
+[ch][é ] -> [ché ] 1512
+[? ][C’est ] -> [? C’est ] 1513
+[o][le ] -> [ole ] 1514
+[peti][te ] -> [petite ] 1515
+[voi][ture ] -> [voiture ] 1516
+[1][9] -> [19] 1517
+[T][T ] -> [TT ] 1518
+[je me ][suis ] -> [je me suis ] 1519
+[désol][é ] -> [désolé ] 1520
+[eh][e ] -> [ehe ] 1521
+[r][é ] -> [ré ] 1522
+[p][oin] -> [poin] 1523
+[ils ][sont ] -> [ils sont ] 1524
+[fati][gu] -> [fatigu] 1525
+[et ][on ] -> [et on ] 1526
+[je ][crois ] -> [je crois ] 1527
+[apr][em ] -> [aprem ] 1528
+[Il ][est ] -> [Il est ] 1529
+[tran][s] -> [trans] 1530
+[? ][Tu ] -> [? Tu ] 1531
+[6][ ] -> [6 ] 1532
+[ar][d ] -> [ard ] 1533
+[trouv][é ] -> [trouvé ] 1534
+[? ][N] -> [? N] 1535
+[un ][truc ] -> [un truc ] 1536
+[ta][ble ] -> [table ] 1537
+[ri][ble ] -> [rible ] 1538
+[? ][On ] -> [? On ] 1539
+[Je ][pense ] -> [Je pense ] 1540
+[n][é] -> [né] 1541
+[tout ][à l’heure ] -> [tout à l’heure ] 1542
+[quand ][tu veux ] -> [quand tu veux ] 1543
+[on ][peut ] -> [on peut ] 1544
+[t ][de ] -> [t de ] 1545
+[mais ][j’ai ] -> [mais j’ai ] 1546
+[ten][ant ] -> [tenant ] 1547
+[*][ ] -> [* ] 1548
+[uu][uu] -> [uuuu] 1549
+[jus][qu’] -> [jusqu’] 1550
+[pl][u] -> [plu] 1551
+[V][incennes ] -> [Vincennes ] 1552
+[clo][pe ] -> [clope ] 1553
+[pi][re ] -> [pire ] 1554
+[ass][ez ] -> [assez ] 1555
+[p][ou] -> [pou] 1556
+[è][res ] -> [ères ] 1557
+[ma][ge ] -> [mage ] 1558
+[b][e ] -> [be ] 1559
+[symp][a ] -> [sympa ] 1560
+[f][ou] -> [fou] 1561
+[❤️][❤️❤️ ] -> [❤️❤️❤️ ] 1562
+[ch][es ] -> [ches ] 1563
+[d’a][u] -> [d’au] 1564
+[end][s ] -> [ends ] 1565
+[to][t ] -> [tot ] 1566
+[🤣][🤣 ] -> [🤣🤣 ] 1567
+[b][or] -> [bor] 1568
+[O][N ] -> [ON ] 1569
+[me][ill] -> [meill] 1570
+[arriv][ée ] -> [arrivée ] 1571
+[d][oit ] -> [doit ] 1572
+[pl][ein ] -> [plein ] 1573
+[m][alement ] -> [malement ] 1574
+[l][é] -> [lé] 1575
+[er][a ] -> [era ] 1576
+[Désol][ée ] -> [Désolée ] 1577
+[y ][aller ] -> [y aller ] 1578
+[voul][ais ] -> [voulais ] 1579
+[3][0] -> [30] 1580
+[E][N] -> [EN] 1581
+[si ][t’as ] -> [si t’as ] 1582
+[quand ][meme ] -> [quand meme ] 1583
+[m’a ][dit ] -> [m’a dit ] 1584
+[Ha ][oui ] -> [Ha oui ] 1585
+[que ][le ] -> [que le ] 1586
+[deman][der ] -> [demander ] 1587
+[s][é ] -> [sé ] 1588
+[B][o] -> [Bo] 1589
+[1][0 ] -> [10 ] 1590
+[par][le ] -> [parle ] 1591
+[a][a ] -> [aa ] 1592
+[et ][le ] -> [et le ] 1593
+[j’a][ttends ] -> [j’attends ] 1594
+[es][te ] -> [este ] 1595
+[d][eb] -> [deb] 1596
+[dor][mi ] -> [dormi ] 1597
+[V][endu ] -> [Vendu ] 1598
+[vend][redi ] -> [vendredi ] 1599
+[M][on ] -> [Mon ] 1600
+[c’est ][le ] -> [c’est le ] 1601
+[h][eur] -> [heur] 1602
+[A][A] -> [AA] 1603
+[t][oi] -> [toi] 1604
+[aud][ra ] -> [audra ] 1605
+[p][ain ] -> [pain ] 1606
+[mati][née ] -> [matinée ] 1607
+[mi][s] -> [mis] 1608
+[fi][l] -> [fil] 1609
+[on][e ] -> [one ] 1610
+[A][n] -> [An] 1611
+[aa][aa] -> [aaaa] 1612
+[envi][e ] -> [envie ] 1613
+[qu’][elle ] -> [qu’elle ] 1614
+[j’][étais ] -> [j’étais ] 1615
+[qu][el ] -> [quel ] 1616
+[v][ou] -> [vou] 1617
+[j’a][urais ] -> [j’aurais ] 1618
+[bl][a] -> [bla] 1619
+[p][eur ] -> [peur ] 1620
+[man][ques ] -> [manques ] 1621
+[te][llement ] -> [tellement ] 1622
+[s][\u000a] -> [s\u000a] 1623
+[essay][e de ] -> [essaye de ] 1624
+[co][ll] -> [coll] 1625
+[reu][nion ] -> [reunion ] 1626
+[P][r] -> [Pr] 1627
+[nouv][elles ] -> [nouvelles ] 1628
+[commen][ce ] -> [commence ] 1629
+[pl][ai] -> [plai] 1630
+[i][d] -> [id] 1631
+[r][dv ] -> [rdv ] 1632
+[en][n] -> [enn] 1633
+[en][tre ] -> [entre ] 1634
+[c’est ][une ] -> [c’est une ] 1635
+[O][u ] -> [Ou ] 1636
+[Al][exandre ] -> [Alexandre ] 1637
+[am][ ] -> [am ] 1638
+[quand ][tu ] -> [quand tu ] 1639
+[main][tenant ] -> [maintenant ] 1640
+[v][ont ] -> [vont ] 1641
+[bi][ère ] -> [bière ] 1642
+[ver][ra ] -> [verra ] 1643
+[be][au ] -> [beau ] 1644
+[an][i] -> [ani] 1645
+[Je suis ][dans le ] -> [Je suis dans le ] 1646
+[me][tro ] -> [metro ] 1647
+[❤️ ][Je ] -> [❤️ Je ] 1648
+[F][aut ] -> [Faut ] 1649
+[h][or] -> [hor] 1650
+[pa][y] -> [pay] 1651
+[c][s ] -> [cs ] 1652
+[a][r ] -> [ar ] 1653
+[? ][Ca va ] -> [? Ca va ] 1654
+[c’est ][la ] -> [c’est la ] 1655
+[Tu ][peux ] -> [Tu peux ] 1656
+[vo][tre ] -> [votre ] 1657
+[seu][l ] -> [seul ] 1658
+[m][m ] -> [mm ] 1659
+[de ][re] -> [de re] 1660
+[pro][ch] -> [proch] 1661
+[ra][pi] -> [rapi] 1662
+[p][oi] -> [poi] 1663
+[en][ne ] -> [enne ] 1664
+[1][5 ] -> [15 ] 1665
+[tr][i] -> [tri] 1666
+[pour ][l’] -> [pour l’] 1667
+[il ][faut ] -> [il faut ] 1668
+[è][me ] -> [ème ] 1669
+[di][ras ] -> [diras ] 1670
+[b][lo] -> [blo] 1671
+[arriv][er ] -> [arriver ] 1672
+[v][er ] -> [ver ] 1673
+[j'][ai ] -> [j'ai ] 1674
+[b][al] -> [bal] 1675
+[ar][re ] -> [arre ] 1676
+[c’est ][vrai ] -> [c’est vrai ] 1677
+[�][�] -> [😅] 1678
+[pas ][la ] -> [pas la ] 1679
+[qu’][ils ] -> [qu’ils ] 1680
+[Ha ][ouais ] -> [Ha ouais ] 1681
+[? ][Yes ] -> [? Yes ] 1682
+[t][, ] -> [t, ] 1683
+[m][ère ] -> [mère ] 1684
+[si][te ] -> [site ] 1685
+[en][ti] -> [enti] 1686
+[p][ouv] -> [pouv] 1687
+[pho][to] -> [photo] 1688
+[t][op ] -> [top ] 1689
+[h][a ] -> [ha ] 1690
+[n][er ] -> [ner ] 1691
+[🤯][ ] -> [🤯 ] 1692
+[w][i] -> [wi] 1693
+[un ][petit ] -> [un petit ] 1694
+[fin][ir ] -> [finir ] 1695
+[t][our ] -> [tour ] 1696
+[sa][c ] -> [sac ] 1697
+[m][é ] -> [mé ] 1698
+[+][ ] -> [+ ] 1699
+[o][s ] -> [os ] 1700
+[direc][t ] -> [direct ] 1701
+[seu][le ] -> [seule ] 1702
+[pas ][le ] -> [pas le ] 1703
+[? ][A] -> [? A] 1704
+[U][ber ] -> [Uber ] 1705
+[Par][is ] -> [Paris ] 1706
+[devr][ait ] -> [devrait ] 1707
+[all][ait ] -> [allait ] 1708
+[en][tion ] -> [ention ] 1709
+[par][ti ] -> [parti ] 1710
+[è][ne ] -> [ène ] 1711
+[t][eur ] -> [teur ] 1712
+[c][on ] -> [con ] 1713
+[i][lle ] -> [ille ] 1714
+[T’][en ] -> [T’en ] 1715
+[t][ête ] -> [tête ] 1716
+[C’][était ] -> [C’était ] 1717
+[b][oi] -> [boi] 1718
+[ll][ez ] -> [llez ] 1719
+[à ][vous ] -> [à vous ] 1720
+[in][on ] -> [inon ] 1721
+[v][es ] -> [ves ] 1722
+[t’a][ppeler ] -> [t’appeler ] 1723
+[ta][f ] -> [taf ] 1724
+[M][a] -> [Ma] 1725
+[ri][r ] -> [rir ] 1726
+[fai][m ] -> [faim ] 1727
+[P][A] -> [PA] 1728
+[On ][va ] -> [On va ] 1729
+[fin][is ] -> [finis ] 1730
+[t][om] -> [tom] 1731
+[dans ][les ] -> [dans les ] 1732
+[si ][je ] -> [si je ] 1733
+[an][ch] -> [anch] 1734
+[m][u] -> [mu] 1735
+[on][nes ] -> [onnes ] 1736
+[? ][Ça va ] -> [? Ça va ] 1737
+[an][te ] -> [ante ] 1738
+[Ou][ai] -> [Ouai] 1739
+[mon ange ][❤️ ] -> [mon ange ❤️ ] 1740
+[oubli][é ] -> [oublié ] 1741
+[E][U] -> [EU] 1742
+[? ][H] -> [? H] 1743
+[ss][é ] -> [ssé ] 1744
+[je t’][aime ] -> [je t’aime ] 1745
+[t][ez ] -> [tez ] 1746
+[je ][t’appelle ] -> [je t’appelle ] 1747
+[récu][pé] -> [récupé] 1748
+[Q][U] -> [QU] 1749
+[g][é ] -> [gé ] 1750
+[me][, ] -> [me, ] 1751
+[dis][cu] -> [discu] 1752
+[? ][Et ] -> [? Et ] 1753
+[rentr][é ] -> [rentré ] 1754
+[t][y] -> [ty] 1755
+[pré][vu ] -> [prévu ] 1756
+[par][ler ] -> [parler ] 1757
+[que ][j’ai ] -> [que j’ai ] 1758
+[J’][espère ] -> [J’espère ] 1759
+[sur ][les ] -> [sur les ] 1760
+[gro][sse ] -> [grosse ] 1761
+[Oh ][non ] -> [Oh non ] 1762
+[pri][se ] -> [prise ] 1763
+[au ][lit ] -> [au lit ] 1764
+[S][inon ] -> [Sinon ] 1765
+[a][ppelle ] -> [appelle ] 1766
+[or][g] -> [org] 1767
+[raconter][as ] -> [raconteras ] 1768
+[ser][ais ] -> [serais ] 1769
+[au ][bar ] -> [au bar ] 1770
+[? ][❤️ ] -> [? ❤️ ] 1771
+[pour][ras ] -> [pourras ] 1772
+[dem][and] -> [demand] 1773
+[t][al] -> [tal] 1774
+[Bonne ][nuit ] -> [Bonne nuit ] 1775
+[p][tit ] -> [ptit ] 1776
+[a ][dit ] -> [a dit ] 1777
+[elle ][est ] -> [elle est ] 1778
+[g][ens ] -> [gens ] 1779
+[Je ][sais pas ] -> [Je sais pas ] 1780
+[plus ][de ] -> [plus de ] 1781
+[de sou][cis ] -> [de soucis ] 1782
+[ou][f ] -> [ouf ] 1783
+[s][tr] -> [str] 1784
+[lon][g] -> [long] 1785
+[je ][veux ] -> [je veux ] 1786
+[fon][c] -> [fonc] 1787
+[J][acques ] -> [Jacques ] 1788
+[photo][s ] -> [photos ] 1789
+[J’ai ][pas ] -> [J’ai pas ] 1790
+[�][ ] -> [� ] 1791
+[en][voy] -> [envoy] 1792
+[in][ter] -> [inter] 1793
+[😅][ ] -> [😅 ] 1794
+[pré][f] -> [préf] 1795
+[k][t ] -> [kt ] 1796
+[T’][inquiètes ] -> [T’inquiètes ] 1797
+[P][our ] -> [Pour ] 1798
+[tous ][les ] -> [tous les ] 1799
+[avec ][le ] -> [avec le ] 1800
+[ei][lle ] -> [eille ] 1801
+[t]['] -> [t'] 1802
+[Bien arriv][ée ] -> [Bien arrivée ] 1803
+[a][b] -> [ab] 1804
+[t][ch ] -> [tch ] 1805
+[quel][ques ] -> [quelques ] 1806
+[non ][plus ] -> [non plus ] 1807
+[profi][te ] -> [profite ] 1808
+[t][ai] -> [tai] 1809
+[p][es ] -> [pes ] 1810
+[e][\u000a] -> [e\u000a] 1811
+[Bebou ][d’amour ] -> [Bebou d’amour ] 1812
+[que ][la ] -> [que la ] 1813
+[par][fait ] -> [parfait ] 1814
+[si][ne ] -> [sine ] 1815
+[que ][ça ] -> [que ça ] 1816
+[ri][g] -> [rig] 1817
+[OU][ ] -> [OU ] 1818
+[ju][st] -> [just] 1819
+[Com][me ] -> [Comme ] 1820
+[si][r ] -> [sir ] 1821
+[R][e] -> [Re] 1822
+[comme ][ca ] -> [comme ca ] 1823
+[p][p ] -> [pp ] 1824
+[f][ro] -> [fro] 1825
+[faire ][des ] -> [faire des ] 1826
+[fa][mi] -> [fami] 1827
+[com][pl] -> [compl] 1828
+[Y][’a ] -> [Y’a ] 1829
+[anch][ement ] -> [anchement ] 1830
+[d’][être ] -> [d’être ] 1831
+[lon][g ] -> [long ] 1832
+[je ][rentre ] -> [je rentre ] 1833
+[envoi][e ] -> [envoie ] 1834
+[comman][de ] -> [commande ] 1835
+[co][l] -> [col] 1836
+[c’est ][bien ] -> [c’est bien ] 1837
+[u][ti] -> [uti] 1838
+[Tu ][as ] -> [Tu as ] 1839
+[et je ][file ] -> [et je file ] 1840
+[ch][emi] -> [chemi] 1841
+[Je ][viens de ] -> [Je viens de ] 1842
+[an][de ] -> [ande ] 1843
+[j][suis ] -> [jsuis ] 1844
+[e][ff] -> [eff] 1845
+[gu][eu] -> [gueu] 1846
+[em][me ] -> [emme ] 1847
+[qu][er ] -> [quer ] 1848
+[ca][r ] -> [car ] 1849
+[je ][viens de ] -> [je viens de ] 1850
+[2][0 ] -> [20 ] 1851
+[s][ait ] -> [sait ] 1852
+[fen][se ] -> [fense ] 1853
+[et ][de ] -> [et de ] 1854
+[vo][yer ] -> [voyer ] 1855
+[mer][ci] -> [merci] 1856
+[entr][eti] -> [entreti] 1857
+[1][5] -> [15] 1858
+[quelle ][heure ] -> [quelle heure ] 1859
+[bi][z] -> [biz] 1860
+[a][ff] -> [aff] 1861
+[pa][re ] -> [pare ] 1862
+[m][au] -> [mau] 1863
+[att][end ] -> [attend ] 1864
+[caf][é ] -> [café ] 1865
+[tran][qui] -> [tranqui] 1866
+[i][ne ] -> [ine ] 1867
+[h][u] -> [hu] 1868
+[mé][tro ] -> [métro ] 1869
+[ga][re ] -> [gare ] 1870
+[arriv][é ] -> [arrivé ] 1871
+[g][al] -> [gal] 1872
+[f][fi] -> [ffi] 1873
+[Ouai][p ] -> [Ouaip ] 1874
+[M][is] -> [Mis] 1875
+[vali][se ] -> [valise ] 1876
+[ma][s ] -> [mas ] 1877
+[h][y] -> [hy] 1878
+[N][an ] -> [Nan ] 1879
+[a][cheter ] -> [acheter ] 1880
+[pour ][moi ] -> [pour moi ] 1881
+[F][r] -> [Fr] 1882
+[j’i][magine ] -> [j’imagine ] 1883
+[lui ][ai ] -> [lui ai ] 1884
+[S][oph] -> [Soph] 1885
+[gen][ti] -> [genti] 1886
+[su][s ] -> [sus ] 1887
+[id][ée ] -> [idée ] 1888
+[tt][end ] -> [ttend ] 1889
+[chau][ff] -> [chauff] 1890
+[t’en ][fais pas ] -> [t’en fais pas ] 1891
+[dis][po ] -> [dispo ] 1892
+[J’a][ttends ] -> [J’attends ] 1893
+[�][ ] -> [� ] 1894
+[pres][sion ] -> [pression ] 1895
+[18][h ] -> [18h ] 1896
+[comp][te ] -> [compte ] 1897
+[res][ter ] -> [rester ] 1898
+[Tout ][se passe bien ] -> [Tout se passe bien ] 1899
+[�][ ] -> [� ] 1900
+[M][on] -> [Mon] 1901
+[A][u ] -> [Au ] 1902
+[�][� ] -> [À ] 1903
+[tiens ][au courant ] -> [tiens au courant ] 1904
+[n][i ] -> [ni ] 1905
+[? ][D] -> [? D] 1906
+[j][o] -> [jo] 1907
+[j’ai ][pris ] -> [j’ai pris ] 1908
+[er ][le ] -> [er le ] 1909
+[mais ][ça va ] -> [mais ça va ] 1910
+[s][te ] -> [ste ] 1911
+[Bien arriv][é ] -> [Bien arrivé ] 1912
+[️][ ] -> [️ ] 1913
+[s][sur] -> [ssur] 1914
+[�][�] -> [😎] 1915
+[au][ra ] -> [aura ] 1916
+[jeu][di ] -> [jeudi ] 1917
+[d]['] -> [d'] 1918
+[c][li] -> [cli] 1919
+[mais ][ca ] -> [mais ca ] 1920
+[w][ ] -> [w ] 1921
+[te ][re] -> [te re] 1922
+[en ][train ] -> [en train ] 1923
+[v][oit ] -> [voit ] 1924
+[pa][n] -> [pan] 1925
+[pa][re] -> [pare] 1926
+[dans ][un ] -> [dans un ] 1927
+[Je t’][aime ] -> [Je t’aime ] 1928
+[et ][tout ] -> [et tout ] 1929
+[avec ][les ] -> [avec les ] 1930
+[long][temps ] -> [longtemps ] 1931
+[l][oin ] -> [loin ] 1932
+[T][ou] -> [Tou] 1933
+[�][� ] -> [\u1fae6 ] 1934
+[racon][te ] -> [raconte ] 1935
+[hâ][te ] -> [hâte ] 1936
+[fami][lle ] -> [famille ] 1937
+[m][eu] -> [meu] 1938
+[com][prends ] -> [comprends ] 1939
+[av][i] -> [avi] 1940
+[do][do ] -> [dodo ] 1941
+[A][llez ] -> [Allez ] 1942
+[bonne ][nuit ] -> [bonne nuit ] 1943
+[pl][ac] -> [plac] 1944
+[t’a][ttends ] -> [t’attends ] 1945
+[or][i] -> [ori] 1946
+[s][é] -> [sé] 1947
+[b][i ] -> [bi ] 1948
+[dis ][quand ] -> [dis quand ] 1949
+[�][�] -> [ï] 1950
+[en][voyer ] -> [envoyer ] 1951
+[b][ri] -> [bri] 1952
+[entreti][en ] -> [entretien ] 1953
+[cet ][aprem ] -> [cet aprem ] 1954
+[sorti][r ] -> [sortir ] 1955
+[par][tout ] -> [partout ] 1956
+[sû][r ] -> [sûr ] 1957
+[au][c] -> [auc] 1958
+[just][ement ] -> [justement ] 1959
+[re][l] -> [rel] 1960
+[par][ce] -> [parce] 1961
+[je ][m’] -> [je m’] 1962
+[f][audra ] -> [faudra ] 1963
+[Par][fait ] -> [Parfait ] 1964
+[au ][bureau ] -> [au bureau ] 1965
+[d][onne ] -> [donne ] 1966
+[h][ors ] -> [hors ] 1967
+[alors ][? ] -> [alors ? ] 1968
+[I][I] -> [II] 1969
+[ouv][er] -> [ouver] 1970
+[ph][one ] -> [phone ] 1971
+[ut][ain ] -> [utain ] 1972
+[Soph][ie ] -> [Sophie ] 1973
+[? ][Je vais ] -> [? Je vais ] 1974
+[y ][avait ] -> [y avait ] 1975
+[rejoin][dre ] -> [rejoindre ] 1976
+[et ][toi ] -> [et toi ] 1977
+[Pas ][de ] -> [Pas de ] 1978
+[pas ][mal ] -> [pas mal ] 1979
+[cham][bre ] -> [chambre ] 1980
+[pour ][vous ] -> [pour vous ] 1981
+[\u000a][\u000a] -> [\u000a\u000a] 1982
+[en][fin ] -> [enfin ] 1983
+[dej][ ] -> [dej ] 1984
+[pi][e] -> [pie] 1985
+[E][S] -> [ES] 1986
+[es][, ] -> [es, ] 1987
+[D][E ] -> [DE ] 1988
+[O][N] -> [ON] 1989
+[je ][sais ] -> [je sais ] 1990
+[meill][eur ] -> [meilleur ] 1991
+[li][mi] -> [limi] 1992
+[des][sus ] -> [dessus ] 1993
+[Mais ][non ] -> [Mais non ] 1994
+[v][a] -> [va] 1995
+[m][ou] -> [mou] 1996
+[de ][suite ] -> [de suite ] 1997
+[cher][cher ] -> [chercher ] 1998
+[attend][ant ] -> [attendant ] 1999
+[att][ention ] -> [attention ] 2000
+[li][er ] -> [lier ] 2001
+[en ][re] -> [en re] 2002
+[c][ra] -> [cra] 2003
+[😎][ ] -> [😎 ] 2004
+[U][ ] -> [U ] 2005
+[p][end] -> [pend] 2006
+[L][E ] -> [LE ] 2007
+[R][E ] -> [RE ] 2008
+[g][o] -> [go] 2009
+[ss][es ] -> [sses ] 2010
+[com][pa] -> [compa] 2011
+[mon][tr] -> [montr] 2012
+[l’][air ] -> [l’air ] 2013
+[gu][es ] -> [gues ] 2014
+[J’][y ] -> [J’y ] 2015
+[chi][er ] -> [chier ] 2016
+[é][vi] -> [évi] 2017
+[n][e] -> [ne] 2018
+[Non ][non ] -> [Non non ] 2019
+[T][E ] -> [TE ] 2020
+[b][ebou] -> [bebou] 2021
+[ver][s] -> [vers] 2022
+[mis][ère ] -> [misère ] 2023
+[j][am] -> [jam] 2024
+[nor][malement ] -> [normalement ] 2025
+[e][p ] -> [ep ] 2026
+[attend][re ] -> [attendre ] 2027
+[a][f] -> [af] 2028
+[�][ ] -> [� ] 2029
+[d’][un ] -> [d’un ] 2030
+[rien ][de ] -> [rien de ] 2031
+[il ][fait ] -> [il fait ] 2032
+[pare][il ] -> [pareil ] 2033
+[elle ][a ] -> [elle a ] 2034
+[plai][sir ] -> [plaisir ] 2035
+[😘][😘 ] -> [😘😘 ] 2036
+[S][u] -> [Su] 2037
+[V][i] -> [Vi] 2038
+[cr][oi] -> [croi] 2039
+[s][que ] -> [sque ] 2040
+[et ][la ] -> [et la ] 2041
+[our][quoi ] -> [ourquoi ] 2042
+[1][h ] -> [1h ] 2043
+[ter][rible ] -> [terrible ] 2044
+[Haa][aa ] -> [Haaaa ] 2045
+[com][merci] -> [commerci] 2046
+[mada][me, ] -> [madame, ] 2047
